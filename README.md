@@ -1,3 +1,16 @@
+# Getting Started
+Create new repository
+To get started,
+
+1. create new blank private repository, on your personal github account .
+2. Clone the repository with the task
+`git clone --bare https://github.com/Ape-dev-de/refactoring-test.git`
+3. Push to repository created in step 1.
+`git push --mirror <your-repo-url>`
+4. give `BlckStar` viewer-access on that repository via Setting -> Manage access -> Invite Team "BlckStar"
+5. You're free to take the test whenever you want and take as much time as you want, but as better the result, the higher the chance i will contract you. 
+6. Good Luck and Have fun.
+
 # Installation
 run `composer install`
 
